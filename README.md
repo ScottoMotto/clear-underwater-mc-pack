@@ -1,5 +1,5 @@
 # clear-underwater-mc-pack
-Resource Pack for Minecraft 1.13+ to make underwater biomes clearer and brighter.
+Resource Packs for Minecraft 1.13+ to make underwater biomes substantially more clear and bright.
 
 Here is a series of resource packs for the Aquatic Update versions of Minecraft. They improve visibility in the water  for better building and exploring.
 
