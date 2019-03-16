@@ -9,7 +9,7 @@ Clear Underwater is the base pack without Gamma brightness increase. It changes 
 
 Clear Underwater Fullbright adds a lightmap file to increase the light levels underwater as well as in caves. It requires Optifine.
 
-Clear Underwater SeeThruGlass makes the side view of water transparent. This allow water to be clear behind glass for aquariums for rexample.
+Clear Underwater SeeThruGlass makes the side view of water transparent. This allow water to be clear behind glass for aquariums for example.
 
 
 Water textures based on work from: https://www.planetminecraft.com/texture_pack/clearwater-v1/
